@@ -28,5 +28,5 @@ tempL.pack()
 
 condL=Label(app,font=("arabolical",20))
 condL.pack()
-
+#app acılıs
 app.mainloop()
